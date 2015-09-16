@@ -1,0 +1,13 @@
+{
+  "name": "drupal-bootstrap",
+  "version": "7.3.0-dev",
+  "private": true,
+  "scripts": {
+    "postinstall": "bower install && grunt prepare-sass-starterkit"
+  },
+  "devDependencies": {
+    "bower": "~1.3.0",
+    "bootstrap-sass": "^3.3.5",
+    "grunt": "^0.4.5"
+  }
+}

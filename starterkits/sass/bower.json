@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-sass-starterkit",
+  "version": "7.3.x-dev",
+  "description": "Drupal Bootstrap SASS Starterkit",
+  "keywords": [
+    "bootstrap",
+    "drupal",
+    "sass"
+  ],
+  "license": "GPL+2",
+  "homepage": "https://www.drupal.org/project/bootstrap",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.5"
+  }
+}
